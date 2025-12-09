@@ -1,0 +1,8 @@
+C:\Users\demon\source\repos\shooter\shooter\bin\Debug\shooter.exe.config
+C:\Users\demon\source\repos\shooter\shooter\bin\Debug\shooter.exe
+C:\Users\demon\source\repos\shooter\shooter\bin\Debug\shooter.pdb
+C:\Users\demon\source\repos\shooter\shooter\obj\Debug\shooter.csproj.AssemblyReference.cache
+C:\Users\demon\source\repos\shooter\shooter\obj\Debug\shooter.csproj.SuggestedBindingRedirects.cache
+C:\Users\demon\source\repos\shooter\shooter\obj\Debug\shooter.csproj.CoreCompileInputs.cache
+C:\Users\demon\source\repos\shooter\shooter\obj\Debug\shooter.exe
+C:\Users\demon\source\repos\shooter\shooter\obj\Debug\shooter.pdb
